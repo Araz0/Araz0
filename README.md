@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Araz0
+- 👋 Hi, I’m Araz
 - 👀 I’m interested in Full Web dev and other small fun scripts 
 - 🌱 I’m currently learning RoR & more FrontEnd.
 - 💞️ I’m looking to collaborate on any fun project you have in mind! 
